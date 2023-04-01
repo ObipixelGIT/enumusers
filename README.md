@@ -12,7 +12,8 @@ Enumerate local user accounts and local groups on a Windows operating system and
 - It checks if any groups were found and if so, it iterates through the list and prints out the name of each group.
 - If no groups were found, it prints out a message saying "No local groups found."
 
-## Why use this script?
+
+## Why use this script?
 
 - This script can be useful for system administrators or security professionals who need to quickly and easily enumerate local users and groups on a Windows system.
 - It can also be used as part of a larger script or tool to perform more complex tasks, such as checking group membership or managing user accounts and permissions.
